@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">Type the company initials</string>
+    <string name="input_prefill"></string>
+    <string name="ok">OK</string>
+    <string name="error_result">Some error occurred while fetching the result!Please try again</string>
+    <string name="no_connection">No Connection Available</string>
+    <string name="network_toast">There is no internet connection available right now!The list can be empty or outdated!</string>
+    <string name="stock_present">"This stock is already saved!"</string>
+    <string name="no_chart">Due to some error the data could not be loaded</string>
+    <string name="add_stock">Add new stock using this button and providing the company name</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
